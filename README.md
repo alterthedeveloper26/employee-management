@@ -75,7 +75,11 @@ Nest is [MIT licensed](LICENSE).
 ## Change read me
 
 <<<<<<< HEAD
-## i hope changing master will case conflict
+
+## this is readme bad bad bad
+
 =======
+
 ## here is something i change for conflict
->>>>>>> bad-branch
+
+> > > > > > > bad-branch
