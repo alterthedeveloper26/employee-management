@@ -75,7 +75,11 @@ Nest is [MIT licensed](LICENSE).
 ## Change read me
 
 <<<<<<< HEAD
-## i hope changing master will case conflict
+
+## bad bad bad bad but in master
+
 =======
+
 ## here is something i change for conflict
->>>>>>> bad-branch
+
+> > > > > > > bad-branch
